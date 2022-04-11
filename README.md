@@ -1,6 +1,9 @@
-💻 - Opa, meu nome é João Victor, tenho 19 anos e atualmente curso Engenharia da Computação na UEMG;
-⚡ - Atualmente tenho interesse em ser desenvolvedor Fullstack, porém tenho mais afinidade em front-end;
-🌱 - Sempre fui fascinado por tecnologia, principalmente na parte de Hardware, desde criança montando e desmontando Desktops/Notebooks =)
+ - 💻 Opa, meu nome é João Victor, tenho 19 anos e atualmente curso Engenharia da Computação na UEMG;
+
+ - ⚡ Atualmente explorando a área da programação, tenho bastante afinidade com front-end;
+
+ - 🌱 Sempre fui fascinado por tecnologia, principalmente na parte de Hardware, desde criança montando e desmontando Desktops/Notebooks =)
+ 
 
 
 
